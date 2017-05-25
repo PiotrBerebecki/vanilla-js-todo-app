@@ -1,0 +1,16 @@
+li {
+  cursor: pointer;
+}
+
+.completed-todo {
+  text-decoration: line-through;
+  user-select: none;
+}
+
+a {
+  color: rgb(51, 108, 193);
+}
+
+.selected-filter {
+  font-weight: bold;
+}
